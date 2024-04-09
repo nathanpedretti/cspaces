@@ -287,7 +287,7 @@ This should open up that file in another tab as shown below.
 
 ![Open VS Code app](./images/spaces85.png?raw=true "Open VS Code app") 
 
-5. Next will be a dialog to `Allow 'Live Share' extension to open this URI?`. Click on `Open`.
+5. If you are not running in the web, you may see a dialog to `Allow 'Live Share' extension to open this URI?`.  If so, click on `Open`.
 
 ![Open extension](./images/spaces76.png?raw=true "Open extension")   
 
@@ -304,7 +304,7 @@ This should open up that file in another tab as shown below.
 ![Waiting for approval](./images/spaces79.png?raw=true "Waiting for approval") 
 ![Accept read-write](./images/spaces80.png?raw=true "Accept read-write") 
 
-9. At this point, you should have a new VS Code web session that is connected to your codespace.
+9. At this point, you should have a new VS Code web session that is connected to your codespace. If not, you may need to sign in.
 
 ![New code session](./images/spaces81.png?raw=true "New code session")    
 
