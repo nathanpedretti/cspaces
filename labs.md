@@ -283,9 +283,9 @@ This should open up that file in another tab as shown below.
 
 ![Live Share link](./images/spaces74.png?raw=true "Live Share link") 
 
-4. This can be sent in email or any kind of messaging to someone. For now, just paste it into another browser session and it will try to open the app in a web version of Visual Studio Code. You'll see a dialog asking to `Open Visual Studio Code 2.app`. Just click on that button.
+4. This can be sent in email or any kind of messaging to someone. For now, just paste it into another browser session. If you have a local version of VS Code installed, you can allow it to open in that IDE by clicking through. Otherwise, just close/cancel any dialogs until you have the option to "Continue in Web" (which will try to open the app in a web version of Visual Studio Code). 
 
-![Open VS Code app](./images/spaces75.png?raw=true "Open VS Code app") 
+![Open VS Code app](./images/spaces85.png?raw=true "Open VS Code app") 
 
 5. Next will be a dialog to `Allow 'Live Share' extension to open this URI?`. Click on `Open`.
 
